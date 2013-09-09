@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "CashboxStarter", "CashboxStarter.csdproj", "{01917199-975F-4948-9B13-C91480E743B4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{01917199-975F-4948-9B13-C91480E743B4}.Debug.ActiveCfg = Debug|Windows CE
+		{01917199-975F-4948-9B13-C91480E743B4}.Debug.Build.0 = Debug|Windows CE
+		{01917199-975F-4948-9B13-C91480E743B4}.Debug.Deploy.0 = Debug|Windows CE
+		{01917199-975F-4948-9B13-C91480E743B4}.Release.ActiveCfg = Release|Windows CE
+		{01917199-975F-4948-9B13-C91480E743B4}.Release.Build.0 = Release|Windows CE
+		{01917199-975F-4948-9B13-C91480E743B4}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
