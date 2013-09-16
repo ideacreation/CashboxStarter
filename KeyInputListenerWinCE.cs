@@ -49,8 +49,6 @@ namespace Scanner
 
 		private void Receive(int input)
 		{
-			_form.Log(((char)input).ToString());
-
 			_inputStream += (char)input;
 
 			if (FoundCommand("STARTEGUMA"))
